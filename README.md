@@ -1,2 +1,2 @@
-# Uni-Project---Smart-Document-Archiving
+#Uni Project
 Repository for University Group Project work.  
